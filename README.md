@@ -1,1 +1,1 @@
-Enter city and get Weather informaton of that city
+Enter city name and get Weather informaton of that city
