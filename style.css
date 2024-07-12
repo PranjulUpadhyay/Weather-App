@@ -93,3 +93,18 @@ body{
     font-size: 28px;
     margin-top: -6px;
 }
+
+.weather{
+    display: none;
+}
+
+.error{
+    text-align: left;
+    margin-left: 10px;
+    margin-top: 10px;
+    font-size: 16px;
+    color: #fe0000;
+    display: none;
+    /* font-weight: 500; */
+    /* font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+}
